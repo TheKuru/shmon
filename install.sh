@@ -28,12 +28,15 @@ echo "      install.sh -cnts chain  CentOS işletim sistemine göre kurulum ger�
 elif [ $1 == "--macos" ] || [ $1 == "-mac" ]
 then
 
-  cd /usr/local/
+  cd /etc/
   mkdir itman
-  cd /usr/local/itman/
-  sudo curl http://46.20.154.164/bashlib/itman.sh -o itman.sh
-  chmod 777 /usr/local/itman/itman.sh
-  sudo ln -s /usr/local/itman/itman.sh /usr/local/bin/itman
+  cd /etc/shmon
+  sudo curl https://raw.githubusercontent.com/TheKuru/shmon/main/install.sh -o install.sh
+  chmod +x /etc/shmon/install.sh
+  bash install.sh
+  sshchmod +x /etc/shmon/shmon.sh
+  sudo ln -s /etc/shmon/shmon.sh /usr/local/bin/shmon
+
   sudo rm -R install.sh
 
 
