@@ -1,0 +1,135 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1637167085682)
++++ b/.idea/workspace.xml	(date 1637167085682)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="ca09a026-1a6d-4344-80cd-94c5d3c8a376" name="Default Changelist" comment="Initial commit">
++      <change afterPath="$PROJECT_DIR$/shmon.sh" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ComposerSettings">
++    <execution />
++  </component>
++  <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="TheKuru &lt;ugurkuru@yandex.com&gt;" />
++      </list>
++    </option>
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
++  </component>
++  <component name="ProjectId" id="212tds8gVG6xMVj3mOtoYoHRShM" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ssh.bat" />
++    <property name="nodejs_package_manager_path" value="npm" />
++    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/install.sh" />
++    <property name="vue.rearranger.settings.migration" value="true" />
++  </component>
++  <component name="Push.Settings">
++    <force-push-targets>
++      <force-push-target remote-path="origin" branch="main" />
++    </force-push-targets>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="ca09a026-1a6d-4344-80cd-94c5d3c8a376" name="Default Changelist" comment="" />
++      <created>1637151100746</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1637151100746</updated>
++      <workItem from="1637151101999" duration="7830000" />
++    </task>
++    <task id="LOCAL-00001" summary="Initial commit">
++      <created>1637151231231</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1637151231231</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Initial commit">
++      <created>1637151300981</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1637151300981</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Initial commit">
++      <created>1637151329300</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1637151329300</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Initial commit">
++      <created>1637165855504</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1637165855504</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Initial commit">
++      <created>1637165955284</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1637165955284</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Initial commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
++  </component>
++</project>
+\ No newline at end of file
