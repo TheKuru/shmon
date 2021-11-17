@@ -20,10 +20,10 @@ echo "--centos      -cnts   chain    CentOS balancer sisteminin kuruluımunu ba�
 echo "--debian      -dbn    chain    Debian balancer sisteminin kuruluımunu başlatır."
 echo ""
 echo "Usage:"
-echo "      install.sh -mac  chain  Mac Os işletim sistemine göre kurulum geröekleştirilir."
-echo "      install.sh -win  chain  Windows işletim sistemine göre kurulum geröekleştirilir."
-echo "      install.sh -ubnt chain  Ubuntu işletim sistemine göre kurulum geröekleştirilir."
-echo "      install.sh -cnts chain  CentOS işletim sistemine göre kurulum geröekleştirilir."
+echo "      shmon.sh -mac  chain  Mac Os işletim sistemine göre kurulum geröekleştirilir."
+echo "      shmon.sh -win  chain  Windows işletim sistemine göre kurulum geröekleştirilir."
+echo "      shmon.sh -ubnt chain  Ubuntu işletim sistemine göre kurulum geröekleştirilir."
+echo "      shmon.sh -cnts chain  CentOS işletim sistemine göre kurulum geröekleştirilir."
 
 elif [ $1 == "--macos" ] || [ $1 == "-mac" ]
 then
